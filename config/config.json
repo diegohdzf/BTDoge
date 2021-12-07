@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x442c924df8f8753e30e93cb70e046043b68c4722",
+  "SCAN_LINK": "https://polygonscan.com/token/00x442c924df8f8753e30e93cb70e046043b68c4722",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BTDoge",
+  "SYMBOL": "BTD",
+  "MAX_SUPPLY": 80,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/btdoge",
+  "SHOW_BACKGROUND": true
+}
